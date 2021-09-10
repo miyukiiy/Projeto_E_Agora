@@ -1,10 +1,6 @@
 <h1>Projeto Java – Generation :rocket: </h1>
-
+<img src="https://cdn.discordapp.com/attachments/879131658043944991/885955110700732536/banner_read.png">
 <p align = "center">
-<a align href = "#Sobre">Sobre</a> │
-<a align href = "#Objetivo">Objetivo</a> │
-<a align href = "#Tecnologias">Tecnologias</a> │
-<a align href = "#Autores">Autores</a>
 </p>
 
 ---
